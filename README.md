@@ -3,6 +3,9 @@
 Real Time Auction Bidding System in C
 
 
+![auction-bidding](https://img.freepik.com/premium-vector/auction-bidding-design_679067-6.jpg?w=2000)
+
+
 ## how to run
 
 * first run server.c
